@@ -1,5 +1,5 @@
-# ExploratoryDataAnalysis-Python
-#  Project Name:Exploratory Data Analysis on "StudentsPerformance.csv" Dataset
+
+# Exploratory Data Analysis on "StudentsPerformance.csv" Dataset
 
 ----
 # Introduction:
