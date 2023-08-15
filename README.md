@@ -1,5 +1,5 @@
 
-# Exploratory Data Analysis on "StudentsPerformance.csv" Dataset
+# Exploratory Data Analysis on StudentsPerformance Dataset
 
 ----
 # Introduction:
