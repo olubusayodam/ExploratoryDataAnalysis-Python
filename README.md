@@ -3,7 +3,7 @@
 
 ----
 # Introduction:
-In this analysis, I performed exploratory data analysis (EDA) on the "StudentsPerformance.csv" dataset. The purpose of the analysis is to gain insights into the dataset and understand the distribution and relationships among various features. The dataset contains information about students' scores in math, reading, and writing, as well as their demographic and educational background.
+In this analysis, I performed exploratory data analysis (EDA) on the "Students Performance" dataset. The purpose of the analysis is to gain insights into the dataset and understand the distribution and relationships among various features. The dataset contains information about students' scores in math, reading, and writing, as well as their demographic and educational background.
 Dataset Availability:
 The dataset file, "StudentsPerformance.csv," is included in this repository. It contains the raw data that was used for the analysis.
 
